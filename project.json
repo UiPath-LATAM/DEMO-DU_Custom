@@ -59,6 +59,8 @@
   ],
   "isTemplate": false,
   "templateProjectData": {},
-  "publishData": {},
+  "publishData": {
+    "iconUrl": ".package/ui_Symbol_SMALL_rgb_Orange_digital_64x50.png"
+  },
   "targetFramework": "Legacy"
 }
