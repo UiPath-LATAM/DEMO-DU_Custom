@@ -1,7 +1,7 @@
 {
   "name": "DEMO-DU_Custom",
   "description": "Document Understanding Demo Default and for Customers",
-  "main": "Main-ActionCenter.xaml",
+  "main": "Main-Attended.xaml",
   "dependencies": {
     "UiPath.DocumentUnderstanding.ML.Activities": "[1.8.0-preview]",
     "UiPath.Excel.Activities": "[2.10.4]",
@@ -15,7 +15,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.4.0",
-  "projectVersion": "1.0.2",
+  "projectVersion": "1.0.6",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
